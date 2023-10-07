@@ -1,0 +1,15 @@
+.singup-fom input,button{
+    display: block;
+    margin: 0.4rem;
+  }
+  .singup-login{
+    display: flex;
+    justify-content: space-around;
+  }
+  .logout-form input,button{
+    display: block;
+    margin: 0.4rem;
+  }
+.dashboard{
+    border: 2px sold burlywood;
+}  
